@@ -25,3 +25,5 @@ We have chosen Github because we anticipate that many developers will take advan
 However if you have a bug to report and don’t have a login, please create one and add the bug, this way it will be visible to all users, as well as the progress of its resolution.
 
 Heck, if you have an account here, you are more likely to create your own website that responds to our Tappable URL Macro links!
+
+We definitely want to grow a developer community around us!
